@@ -990,22 +990,22 @@ header .container{
 /* Parallax Secion --------------------------*/
 
 .image_01_parallax{
-	background: url("img/parallax/1.jpg");
+	background: url("../img/parallax/1.jpg");
 }
 .image_02_parallax{
-	background: url("img/parallax/2.jpg");
+	background: url("../img/parallax/2.jpg");
 }
 .image_03_parallax{
-	background: url("img/parallax/3.jpg");
+	background: url("../img/parallax/3.jpg");
 }
 .image_04_parallax{
-	background: url("img/parallax/4.jpg");
+	background: url("../img/parallax/4.jpg");
 }
 .image_05_parallax{
-	background: url("img/parallax/5.jpg");
+	background: url("../img/parallax/5.jpg");
 }
 .image_06_parallax{
-	background: url("img/parallax/commons-full.jpg");
+	background: url("../img/parallax/commons-full.jpg");
 }
 
 .bg_parallax{
