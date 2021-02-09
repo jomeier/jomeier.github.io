@@ -23,14 +23,14 @@
 }
 .section_title{
 	background-color: #7FC7AF;
-	background: #7FC7AF url("../../../img/img-theme/bg_index_static.png");
+	background: #7FC7AF url("../../img/img-theme/bg_index_static.png");
 }
 .arrow_results{
 	background: url("arrow_results.png") no-repeat center center;
 }
 .overlay{
-	background: #7FC7AF url("../../../img/img-theme/more.png") no-repeat center center;;
-	background: rgba(127,199,175,0.6) url("../../../img/img-theme/more.png") no-repeat center center;
+	background: #7FC7AF url("../../img/img-theme/more.png") no-repeat center center;;
+	background: rgba(127,199,175,0.6) url("../../img/img-theme/more.png") no-repeat center center;
 }
 .opacy_bg_03{
   background: rgba(127,199,175,0.6);

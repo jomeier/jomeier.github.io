@@ -23,14 +23,14 @@
 }
 .section_title{
 	background-color: #88C425;
-	background: #88C425 url("../../../img/img-theme/bg_index_static.png");
+	background: #88C425 url("../../img/img-theme/bg_index_static.png");
 }
 .arrow_results{
 	background: url("arrow_results.png") no-repeat center center;
 }
 .overlay{
-	background: #88C425 url("../../../img/img-theme/more.png") no-repeat center center;;
-	background: rgba(136,196,37,0.6) url("../../../img/img-theme/more.png") no-repeat center center;
+	background: #88C425 url("../../img/img-theme/more.png") no-repeat center center;;
+	background: rgba(136,196,37,0.6) url("../../img/img-theme/more.png") no-repeat center center;
 }
 .opacy_bg_03{
   background: rgba(136,196,37,0.8);
