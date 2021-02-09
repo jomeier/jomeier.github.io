@@ -996,7 +996,7 @@ header .container{
 	background: url("../img/parallax/2.jpg");
 }
 .image_03_parallax{
-	background: url("../img/parallax/3.jpg");
+	background: url("/img/parallax/3.jpg");
 }
 .image_04_parallax{
 	background: url("../img/parallax/4.jpg");
